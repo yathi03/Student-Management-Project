@@ -27,7 +27,7 @@ Ensure you have the following prerequisites before running the program:
 To set up the project on your machine:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/student-management-system.git
+    git clone https://github.com/yathi03/Student-Management-Project.git
     ```
 2. Open the project in your preferred IDE.
 3. Make sure the JDK is properly configured in your IDE.
